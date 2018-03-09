@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 878480bc911d44560afdb7cb0bc15524
+timeCreated: 1520413717
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesh_274429807
+    400000: //RootNode
+    400002: mesh_274429807
+    2300000: mesh_274429807
+    3300000: mesh_274429807
+    4300000: mesh_274429807
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1003079341SG
+    second: {fileID: 2100000, guid: dd7f7622c6af14f8fbe482741f51868e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1034985974SG
+    second: {fileID: 2100000, guid: c5aa1803126ad4c19a6d31cda7a95dcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1048650548SG
+    second: {fileID: 2100000, guid: a04aecebc630c4c6a9ce89b9be0c4aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1081480095SG
+    second: {fileID: 2100000, guid: 0c0dcca23acc444dea1f8767025680c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1102555984SG
+    second: {fileID: 2100000, guid: 37c5d32322f47477098879c10405408d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1117741532SG
+    second: {fileID: 2100000, guid: abc0e15a6e61242d3929e42b7b417a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_11400628SG
+    second: {fileID: 2100000, guid: 282c9ea9492204210b263d8b7b5a25ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_114416166SG
+    second: {fileID: 2100000, guid: 06f0d411f45e44bd0b78234a883c3df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1148004861SG
+    second: {fileID: 2100000, guid: 4e34d10122f94436a93b3f41e6e61117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1182425052SG
+    second: {fileID: 2100000, guid: 4e4f7365fdb5f4a37b98264205e672f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1194582586SG
+    second: {fileID: 2100000, guid: b6d45b50847014aea8315a823b53c551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1224602901SG
+    second: {fileID: 2100000, guid: 436bbb249e4704229ab712416c673303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1269803799SG
+    second: {fileID: 2100000, guid: d76ac58a8db9f465e92210a807dd1a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1278260482SG
+    second: {fileID: 2100000, guid: 465319cf9e6bc4651be21214ffa8fa6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_12952340SG
+    second: {fileID: 2100000, guid: 6bf6128dd23734edbab4cd22c2c5aa68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1357642231SG
+    second: {fileID: 2100000, guid: 392374ad39cba4745b581d9db6a6cc87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1366148211SG
+    second: {fileID: 2100000, guid: 183b49f8b52a94310a6792d20744cd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1376536848SG
+    second: {fileID: 2100000, guid: 67aa42855f5c64d8e83e2a7293368f35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1377002646SG
+    second: {fileID: 2100000, guid: 77158e684a1cb4f188dc9550d9d7be80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1382001473SG
+    second: {fileID: 2100000, guid: c9272529773954b9ca1e854eb0f63c22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1384525006SG
+    second: {fileID: 2100000, guid: cb76984f239b0431cad46592df59a09d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1385764419SG
+    second: {fileID: 2100000, guid: b03f1d96ba84042aaae1c25a70d3d6ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1417732588SG
+    second: {fileID: 2100000, guid: 97582ce3abfec4bafa59ca35812f68c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1423500133SG
+    second: {fileID: 2100000, guid: 9960607e69009459cad9e0085c933007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1423948779SG
+    second: {fileID: 2100000, guid: a4bc7d951518342ab8ea7f5c315b8941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1424378520SG
+    second: {fileID: 2100000, guid: 067ea39bced0448dea0c112846d0d15f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1431781948SG
+    second: {fileID: 2100000, guid: 77ae7e7244fec43389ba2f89843a3e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1439377682SG
+    second: {fileID: 2100000, guid: d355f59755518479e8c2f4a1dc937329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1452330022SG
+    second: {fileID: 2100000, guid: c29f5e3c1a65c463bb46a6080b335bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1460087001SG
+    second: {fileID: 2100000, guid: 950145f718b894927ad43103a567cf8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1517407249SG
+    second: {fileID: 2100000, guid: 4301cfddc6e6e4e0d983d62393d6999d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1532025740SG
+    second: {fileID: 2100000, guid: 937d342fdf4cc47b3a1a4de46f45046e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1583583709SG
+    second: {fileID: 2100000, guid: 48b028bdfdfb64fa2a76edbab416a923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1586979658SG
+    second: {fileID: 2100000, guid: dba5acde647774f2d9e1b157c9cadd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1606249092SG
+    second: {fileID: 2100000, guid: 3d913d0936d0f4c53b21f521283f532e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1661990915SG
+    second: {fileID: 2100000, guid: 164e7e3f9aa844595994ef0909c503b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1674223253SG
+    second: {fileID: 2100000, guid: 22372dda7353047f6a8255ed2b10404f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1684121021SG
+    second: {fileID: 2100000, guid: 0484f398744424b5c87d146efe32cc4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1687159391SG
+    second: {fileID: 2100000, guid: a684f8ff3ac0f4ec489c3e8f22c7bb1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1746874377SG
+    second: {fileID: 2100000, guid: 95224fe6be0c94597b674ad17ee9bb0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1747228902SG
+    second: {fileID: 2100000, guid: ceff5b79b431647189a203ec20746852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1752226962SG
+    second: {fileID: 2100000, guid: 5aa2e9f2290a04d5eb3d503a2120d02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1764457194SG
+    second: {fileID: 2100000, guid: 1714e1b9e035f46d4bfd89f8423c5616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1774373044SG
+    second: {fileID: 2100000, guid: 8a0914fef42994cbf9c380f325b6f1c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1810390228SG
+    second: {fileID: 2100000, guid: 77996f6232db042aea77234c1090d5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1828968547SG
+    second: {fileID: 2100000, guid: b8e0b9d7db9ec400582f67b243bfab0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1884976125SG
+    second: {fileID: 2100000, guid: 6fd31fede74bd4a83b60253de30cd9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1903207650SG
+    second: {fileID: 2100000, guid: 303489fddd0984059aa498b982bcbc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1906578163SG
+    second: {fileID: 2100000, guid: 470425dc9b8da411b83a012896c6a839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1961437542SG
+    second: {fileID: 2100000, guid: e959407c3c74e4b2e88b32f66fff8889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1969484710SG
+    second: {fileID: 2100000, guid: e937dbb0c22054f489d91bbce8c78677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1969652399SG
+    second: {fileID: 2100000, guid: b924b547d4f394935a48746a7e4f25f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1980475549SG
+    second: {fileID: 2100000, guid: b2f870aaaa21b4b3282bdcf2ee3961e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1997907407SG
+    second: {fileID: 2100000, guid: 4504e1838524c4f8faafe353599bbd1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_1998187820SG
+    second: {fileID: 2100000, guid: bb749e850145b416894ab0eb04e328bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2011064279SG
+    second: {fileID: 2100000, guid: 9c56e38eb4c0742438fc6473adc67a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2012762435SG
+    second: {fileID: 2100000, guid: 9545f026dc2464b34af4b21bb8243844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2058641804SG
+    second: {fileID: 2100000, guid: 6ec5a7cc1a44e473094f1822321cc815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2070185844SG
+    second: {fileID: 2100000, guid: 2421fcf931a1b4b14b85d1fc95a3e6bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2070215748SG
+    second: {fileID: 2100000, guid: 6f10da14d5ccf4f10b17ef559589db18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_208495222SG
+    second: {fileID: 2100000, guid: fdcea46cbe2814d8b95fc1e73934d3a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_2097327464SG
+    second: {fileID: 2100000, guid: 9f624e50bdb1a42f48a7d669da1a9bea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_254565432SG
+    second: {fileID: 2100000, guid: f246c6932b76e49739ea75f6cbd562b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_274429807SG
+    second: {fileID: 2100000, guid: cb7ceee23a0d24d3ea4752f7dfe5d3e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_275495272SG
+    second: {fileID: 2100000, guid: 49fbde42125b24e88a6c764c18dde494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_277213998SG
+    second: {fileID: 2100000, guid: fc587df263be9494f9ce40bfb78b556f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_28043214SG
+    second: {fileID: 2100000, guid: 8477e79d63c204bfb8b9bc251bd4938d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_282650001SG
+    second: {fileID: 2100000, guid: 6025ee08f68d24446a02462600a995b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_293383908SG
+    second: {fileID: 2100000, guid: 6892a8876897949ffb11e84044798442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_318680990SG
+    second: {fileID: 2100000, guid: 02576ac1e58174fb189b478ee50581eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_326458065SG
+    second: {fileID: 2100000, guid: 432a94b2c7d3e4af3aafbf02b4d4928e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_363261969SG
+    second: {fileID: 2100000, guid: 4560a701d7ff34d4293144c395a2afa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_364712923SG
+    second: {fileID: 2100000, guid: f2c9dde8746fa4a3c8af82fc76607771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_380509783SG
+    second: {fileID: 2100000, guid: 62933db0053ce477fa2af09395d46798, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_39043507SG
+    second: {fileID: 2100000, guid: 1514eff6959f94af090f36b5c9f0e4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_412664153SG
+    second: {fileID: 2100000, guid: c2c52ab22c7c44b9586ac541a4f11c9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_442562928SG
+    second: {fileID: 2100000, guid: 4ecc5566055144729a7cbaf37ff33679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_461027346SG
+    second: {fileID: 2100000, guid: 86c085eb2a635407095e7b687ab9d21c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_485645297SG
+    second: {fileID: 2100000, guid: 34494d4d791df4ff69e4837db09077d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_564185387SG
+    second: {fileID: 2100000, guid: ab0764c3384be48069d14744ed34c0fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_565038452SG
+    second: {fileID: 2100000, guid: 0286f8acf38c14f3abc7133335878b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_608979313SG
+    second: {fileID: 2100000, guid: 5b0034d9301e64599a5dfc0860f4d119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_615300255SG
+    second: {fileID: 2100000, guid: 764409e641edc49478805d1b049351f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_619040425SG
+    second: {fileID: 2100000, guid: 0a0be8397d2684de2bc4c96c2e76ef4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_661194721SG
+    second: {fileID: 2100000, guid: 81e05ea53bc2141de9f12b66b4ceffa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_67570010SG
+    second: {fileID: 2100000, guid: 3e8594b5038a94f948c4567d506977a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_718518889SG
+    second: {fileID: 2100000, guid: ac03209a3ef0a4ea1977a2a5158c90c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_760101812SG
+    second: {fileID: 2100000, guid: 02c2c92e2d409492aadfaf3e5de2c05b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_790881975SG
+    second: {fileID: 2100000, guid: dd719d32156d745f99e93622b1f357c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_827808606SG
+    second: {fileID: 2100000, guid: bd581ee52b44e401aa6aded9dcaeeb38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_83615338SG
+    second: {fileID: 2100000, guid: da5260e2cefde473a99016dc1f404938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_848774510SG
+    second: {fileID: 2100000, guid: 0b3127026a13745f192c58f28b1b3f70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_869549054SG
+    second: {fileID: 2100000, guid: 4e5a72270fd2e408ab37b42701edd849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_874757040SG
+    second: {fileID: 2100000, guid: fa7a8d69b29974f91bc619463b2d63ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_877170224SG
+    second: {fileID: 2100000, guid: 8e03c209bcf1f49199e91bc376ac01b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_903042033SG
+    second: {fileID: 2100000, guid: 480bb5394273e44ad8b18ea66b6f419c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_951083229SG
+    second: {fileID: 2100000, guid: cfb0827a1397d414e88e077d1208d2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_952639248SG
+    second: {fileID: 2100000, guid: 4d6b5afa3558641c0bd984554bdd69d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_978976223SG
+    second: {fileID: 2100000, guid: 0cc11d12154c641c8a66ff8788e979fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boiio_mesh_994322978SG
+    second: {fileID: 2100000, guid: f6967e7e34dd44215b95c4119adecb53, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
