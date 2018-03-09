@@ -1,0 +1,106 @@
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/obj/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/obj/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/nunit.framework.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Mapbox.Json.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/TextMeshPro-1.0.55.2017.2.0b12.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/TextMeshPro-1.0.55.2017.2.0b12-Editor.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/BrendanRusso/Desktop/GitHub/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/obj/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/obj/Debug/Assembly-CSharp-Editor-firstpass.dll.mdb
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/nunit.framework.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Mapbox.Json.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/TextMeshPro-1.0.55.2017.2.0b12.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/TextMeshPro-1.0.55.2017.2.0b12-Editor.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.DataContract.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/jakeculp/Desktop/WINTER17-18/IDM 372/CO2BLACK/Co2BlackUnityProject/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
