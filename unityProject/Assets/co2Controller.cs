@@ -119,7 +119,6 @@ public class co2Controller : MonoBehaviour {
 		public GameObject allEnergy_Trans;
 
 		public GameObject getClean;
-		public GameObject getClean_Trans;
 
 		public GameObject reject;
 		public GameObject reject_Trans;
@@ -158,16 +157,14 @@ public class co2Controller : MonoBehaviour {
 			gasEnergy_Trans.SetActive (false);
 			clean.SetActive (true);
 			allEnergy.SetActive (true);
-//			allEnergy_Trans.SetActive (true);
-//			gasEnergy.SetActive (false);
+			allEnergy_Trans.SetActive (true);
 		}
 
 		//	show "its simple" text
 		public void turnOnCleanText() {
 			allEnergy.SetActive (false);
-//			allEnergy_Trans.SetActive (false);
-//			getClean.SetActive (true);
-//			getClean_Trans.SetActive (true);
+			allEnergy_Trans.SetActive (false);
+			getClean.SetActive (true);
 
 		}
 		//	void OnCollisionEnter(Collision collision) {	
@@ -220,8 +217,8 @@ public class co2Controller : MonoBehaviour {
 							Debug.Log ("plz");
 
 							getClean.SetActive (false);
-							getClean_Trans.SetActive (false);
 							allEnergy.SetActive (false);
+							allEnergy_Trans.SetActive (false);
 
 							reject.SetActive (true);
 //							reject_Trans.SetActive (true);
@@ -238,8 +235,8 @@ public class co2Controller : MonoBehaviour {
 						Debug.Log ("yay");
 
 						getClean.SetActive (false);
-						getClean_Trans.SetActive (false);
 						allEnergy.SetActive (false);
+						allEnergy_Trans.SetActive (false);
 						reject.SetActive (false);
 
 						good.SetActive (true);

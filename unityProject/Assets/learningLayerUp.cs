@@ -95,6 +95,7 @@ public class learningLayerUp : MonoBehaviour {
 			trashBadge.GetComponent<Animation> ().Play ("badgeIn");
 			isBadgeUp = true;
 			nextBtn.SetActive (false);
+			closeBtn.SetActive (false);
 			progBtn.SetActive (true);
 			congrats.SetActive (true);
 
