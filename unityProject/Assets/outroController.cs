@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class outroController : MonoBehaviour {
 
-	public GameObject helpText;
-	public GameObject badges;
-	public GameObject outro_Trans;
+	public GameObject screen1;
+
 	public GameObject credits;
 
 	public void showCredits() {
-		helpText.SetActive (false);
-		badges.SetActive (false);
-		outro_Trans.SetActive (false);
+		screen1.SetActive (false);
 		credits.SetActive (true);
 	}
 		
