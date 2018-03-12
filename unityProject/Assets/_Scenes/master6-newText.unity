@@ -12631,6 +12631,7 @@ GameObject:
   - component: {fileID: 1019435494}
   - component: {fileID: 1019435500}
   - component: {fileID: 1019435496}
+  - component: {fileID: 1019435501}
   m_Layer: 0
   m_Name: lampContainer
   m_TagString: Untagged
@@ -12645,7 +12646,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1019435492}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.19000053}
+  m_LocalPosition: {x: 0, y: -8, z: -0.19000053}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 445202283}
@@ -12783,6 +12784,20 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!111 &1019435501
+Animation:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1019435492}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 7400000, guid: 70fad6479969a4ccaaf745bfb19fe4e2, type: 2}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &1021464031
 GameObject:
   m_ObjectHideFlags: 0
