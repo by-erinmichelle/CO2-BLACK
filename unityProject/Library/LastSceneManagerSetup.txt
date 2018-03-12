@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_Scenes/master6-newText-newSmoke.unity
-  isLoaded: 1
-  isActive: 1
