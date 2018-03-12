@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: fogmaterial
+  m_Name: fogmaterial_mapbox
   m_Shader: {fileID: 4800000, guid: b5c3da14c95db4343b7a9eea0c89bf0e, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -55,15 +55,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     - _Alpha: 0.14
-=======
-    - _Alpha: 0.16
->>>>>>> Stashed changes
-=======
-    - _Alpha: 0.5
->>>>>>> origin/master
     - _AlphaSub: 0.05
     - _BumpScale: 1
     - _Cutoff: 0.5

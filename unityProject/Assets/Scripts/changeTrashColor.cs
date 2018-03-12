@@ -40,28 +40,30 @@ public class changeTrashColor : MonoBehaviour {
 		private int goodInteractionCount = 0;
 		public float scale = 0.6f;
 		public float intensity = 0.8f;
-		public float alpha = 0.19f;
+		public float alpha = 0.5f;
 		public float alphasub = 0.05f;
 		public float pow = 1.2f;
 		public Color color = new Color(0f, 0f, 0f, 1.0f);
 		public Material fogMaterial;
+     
+        
 
 
 		
 	void Update () {
 
 		if(goodInteractionCount == 1){
-			alpha = 0.16f;
+			alpha = 0.4f;
 			fogMaterial.SetFloat("_Alpha", alpha);
 		}
 
 		if (goodInteractionCount == 2) {
-			alpha = 0.13f;
+			alpha = 0.3f;
 			fogMaterial.SetFloat("_Alpha", alpha);
 		}
 
 		if (goodInteractionCount == 3) {
-			alpha = 0.0f;
+			alpha = 0.2f;
 			fogMaterial.SetFloat("_Alpha", alpha);
 		}
 	}	
