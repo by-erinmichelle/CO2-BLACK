@@ -47,6 +47,7 @@ public class learningLayerEnergy : MonoBehaviour {
 				energyBadge.GetComponent<Animation> ().Play ("badgeIn");
 				isBadgeUp = true;
 				nextBtn.SetActive (false);
+				closeBtn.SetActive (false);
 				progBtn.SetActive (true);
 				congrats.SetActive (true);
 

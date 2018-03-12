@@ -41,6 +41,7 @@ namespace UnityEngine.XR.iOS
 			if (hitResults.Count > 0) {
 				
 				ScanningDots.SetActive(false);
+				WholeLamp.GetComponent<Animation> ().Play ("lampModel");
 
 				if (!cflBulb.activeInHierarchy) {
 					//works as long as theres only one condition?

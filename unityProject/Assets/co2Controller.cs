@@ -119,7 +119,6 @@ public class co2Controller : MonoBehaviour {
 		public GameObject allEnergy_Trans;
 
 		public GameObject getClean;
-		public GameObject getClean_Trans;
 
 		public GameObject reject;
 		public GameObject reject_Trans;
@@ -132,6 +131,16 @@ public class co2Controller : MonoBehaviour {
 		public GameObject screen1;
 		public GameObject screen2;
 		public GameObject screen3;
+
+		// smoke
+
+		public float scale = 0.6f;
+		public float intensity = 0.8f;
+		public float alpha = 0.13f;
+		public float alphasub = 0.05f;
+		public float pow = 1.2f;
+		public Color color = new Color(0f, 0f, 0f, 1.0f);
+		public Material fogMaterial;
 
 		//	show coal model
 		public void turnOnCoal() {
@@ -158,16 +167,14 @@ public class co2Controller : MonoBehaviour {
 			gasEnergy_Trans.SetActive (false);
 			clean.SetActive (true);
 			allEnergy.SetActive (true);
-//			allEnergy_Trans.SetActive (true);
-//			gasEnergy.SetActive (false);
+			allEnergy_Trans.SetActive (true);
 		}
 
 		//	show "its simple" text
 		public void turnOnCleanText() {
 			allEnergy.SetActive (false);
-//			allEnergy_Trans.SetActive (false);
-//			getClean.SetActive (true);
-//			getClean_Trans.SetActive (true);
+			allEnergy_Trans.SetActive (false);
+			getClean.SetActive (true);
 
 		}
 		//	void OnCollisionEnter(Collision collision) {	
@@ -220,8 +227,8 @@ public class co2Controller : MonoBehaviour {
 							Debug.Log ("plz");
 
 							getClean.SetActive (false);
-							getClean_Trans.SetActive (false);
 							allEnergy.SetActive (false);
+							allEnergy_Trans.SetActive (false);
 
 							reject.SetActive (true);
 //							reject_Trans.SetActive (true);
@@ -238,12 +245,16 @@ public class co2Controller : MonoBehaviour {
 						Debug.Log ("yay");
 
 						getClean.SetActive (false);
-						getClean_Trans.SetActive (false);
 						allEnergy.SetActive (false);
+						allEnergy_Trans.SetActive (false);
 						reject.SetActive (false);
 
 						good.SetActive (true);
 						good_Trans.SetActive (true);
+
+						alpha = 0.0f;
+						fogMaterial.SetFloat("_Alpha", alpha);
+						// Debug.Log(fogMaterial._Alpha);
 
 
 
