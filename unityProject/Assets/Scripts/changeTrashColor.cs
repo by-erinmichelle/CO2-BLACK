@@ -45,6 +45,8 @@ public class changeTrashColor : MonoBehaviour {
 		public float pow = 1.2f;
 		public Color color = new Color(0f, 0f, 0f, 1.0f);
 		public Material fogMaterial;
+     
+        
 
 
 		
