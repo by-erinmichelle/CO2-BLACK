@@ -4,4 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes: []
+=======
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/master6-newText-stillSmoke.unity
+    guid: 72f3fb3519b384154a59619b20980f6a
+>>>>>>> e9e4ca1eef28daa4cad44036b1226ea8382c9e7a
