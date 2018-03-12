@@ -11,9 +11,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/master6.unity
     guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/_Scenes/master6-newText-newSmoke.unity
     guid: 26b9560e37e0a4e9fb94d9fc43f72f14
+=======
+>>>>>>> a1d7256ee9ef4ec6a968b2c7a614631645fc931e
   - enabled: 0
     path: Assets/_Scenes/Outro2.unity
     guid: 781b8fe1362f443a7a287ab22409b535
+  - enabled: 1
+    path: Assets/_Scenes/master6-newText-newSmoke.unity
+    guid: 26b9560e37e0a4e9fb94d9fc43f72f14
