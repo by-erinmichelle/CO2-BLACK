@@ -27,7 +27,6 @@ public class firstModule : MonoBehaviour {
 
 	public GameObject learningLayerLamp;
 
-	public Material smokeHigh;
 
 //	public GameObject lampContainer;
 //	public GameObject BlueFocusSquare;
@@ -79,7 +78,6 @@ public class firstModule : MonoBehaviour {
 			lampShade.GetComponent<Animation>().Play();
 			pointer.SetActive (true);
 		
-			smokeHigh.SetFloat ("_Alpha", 0.15f);
 		}
 
 		if (turnOff.activeInHierarchy) {

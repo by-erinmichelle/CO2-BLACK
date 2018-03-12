@@ -7,6 +7,7 @@ using UnityEngine.EventSystems;
 
 public class Move2 : MonoBehaviour {
 	public GameObject instructions;
+    public GameObject moveCloser;
 
 	//public GameObject bubblePrefab;
 	private static GameObject objectSelect = null;
@@ -58,6 +59,8 @@ public class Move2 : MonoBehaviour {
 
 						sodaDialogue.SetActive(false);
 						sodaDialogue_trans.SetActive(false);
+
+                        moveCloser.SetActive(false);
                     }
 					
 				}
@@ -83,6 +86,8 @@ public class Move2 : MonoBehaviour {
 				sodaDialogue.SetActive(false);
 				sodaDialogue_trans.SetActive(false);
 
+                moveCloser.SetActive(false);
+
 
 			}
 
@@ -105,6 +110,8 @@ public class Move2 : MonoBehaviour {
 
 				sodaDialogue.SetActive(false);
 				sodaDialogue_trans.SetActive(false);
+
+                moveCloser.SetActive(false);
 
 
 

@@ -4,13 +4,41 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
+  m_Scenes: []
+=======
   m_Scenes:
+<<<<<<< HEAD
   - enabled: 1
     path: Assets/_Scenes/smokeyintro.unity
     guid: ba73b00188cf4429987718fa0a163038
   - enabled: 1
-    path: Assets/_Scenes/master6.unity
-    guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
+    path: Assets/_Scenes/master6-newText.unity
+    guid: 9e4ad135351b946bb89c468a55252584
   - enabled: 1
     path: Assets/_Scenes/Outro2.unity
     guid: 781b8fe1362f443a7a287ab22409b535
+=======
+<<<<<<< Updated upstream
+  - enabled: 1
+    path: Assets/_Scenes/master6-newText-stillSmoke.unity
+    guid: 72f3fb3519b384154a59619b20980f6a
+>>>>>>> e9e4ca1eef28daa4cad44036b1226ea8382c9e7a
+=======
+  - enabled: 0
+    path: Assets/_Scenes/smokeyintro.unity
+    guid: ba73b00188cf4429987718fa0a163038
+  - enabled: 0
+    path: Assets/_Scenes/master6.unity
+    guid: 067f31bcf3f6d4a448d53cfe48c7a8d8
+  - enabled: 0
+    path: Assets/_Scenes/Outro2.unity
+    guid: 781b8fe1362f443a7a287ab22409b535
+  - enabled: 0
+    path: Assets/_Scenes/master6-newText-newSmoke.unity
+    guid: 26b9560e37e0a4e9fb94d9fc43f72f14
+  - enabled: 1
+    path: Assets/_Scenes/master 25.unity
+    guid: 8f7862f53c7244f199f134c1839d25d6
+>>>>>>> Stashed changes
+>>>>>>> 4f531ce49bcfe3951c75f3d5349068b18cc1c07a

@@ -17,6 +17,9 @@ public class co2Controller : MonoBehaviour {
 
 		BuildingFact.SetActive (false);
 		BuildingFact_Trans.SetActive (false);
+		Destroy (BuildingFact);
+		Destroy (BuildingFact_Trans);
+
 		replaceBulb.SetActive (true);
 		
 	}
@@ -132,6 +135,16 @@ public class co2Controller : MonoBehaviour {
 		public GameObject screen2;
 		public GameObject screen3;
 
+		// smoke
+
+		public float scale = 0.6f;
+		public float intensity = 0.8f;
+		public float alpha = 0.13f;
+		public float alphasub = 0.05f;
+		public float pow = 1.2f;
+		public Color color = new Color(0f, 0f, 0f, 1.0f);
+		public Material fogMaterial;
+
 		//	show coal model
 		public void turnOnCoal() {
 			woodEnergy.SetActive (false);
@@ -242,7 +255,9 @@ public class co2Controller : MonoBehaviour {
 						good.SetActive (true);
 						good_Trans.SetActive (true);
 
-
+						alpha = 0.0f;
+						fogMaterial.SetFloat("_Alpha", alpha);
+						// Debug.Log(fogMaterial._Alpha);
 
 
 					}

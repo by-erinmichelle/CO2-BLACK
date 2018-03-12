@@ -55,7 +55,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Alpha: 0.17
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+    - _Alpha: 0.14
+=======
+    - _Alpha: 0.16
+>>>>>>> Stashed changes
+=======
+    - _Alpha: 0.5
+>>>>>>> origin/master
     - _AlphaSub: 0.05
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -74,6 +82,6 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.4039216, g: 0.4039216, b: 0.4039216, a: 1}
+    - _Color: {r: 0.044827588, g: 0.044827588, b: 0.044827588, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
