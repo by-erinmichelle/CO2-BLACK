@@ -10,11 +10,12 @@ public class exampleSceneScript : MonoBehaviour {
 	public float alpha = 0.19f;
 	public float alphasub = 0.05f;
 	public float pow = 1.2f;
-	public Color color = new Color(1f, 0.95f, 0.9f, 1.0f);
+	public Color color = new Color(0f, 0f, 0f, 1.0f);
 	public Material fogMaterial;
 
 	public GameObject cfl;
 	public GameObject goToSecondBtn;
+
 	
 	void Start () {
 	
@@ -39,6 +40,8 @@ public class exampleSceneScript : MonoBehaviour {
 			fogMaterial.SetFloat("_Alpha", alpha);
 			Debug.Log(alpha);
 		}
+
+
 	}
 	
 	// void OnGUI () {
