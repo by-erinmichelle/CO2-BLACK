@@ -6455,7 +6455,7 @@ GameObject:
   - component: {fileID: 554462531}
   - component: {fileID: 554462530}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Particle System 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6509,8 +6509,8 @@ ParticleSystemRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
-  - {fileID: 0}
+  - {fileID: 2100000, guid: aad0e1afa859e4b4f9128c4ada11b991, type: 2}
+  - {fileID: 2100000, guid: aad0e1afa859e4b4f9128c4ada11b991, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13357,7 +13357,7 @@ MonoBehaviour:
   alphasub: 0.05
   pow: 1.2
   color: {r: 0, g: 0, b: 0, a: 1}
-  fogMaterial: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
+  fogMaterial: {fileID: 2100000, guid: 86dd245d0dad745cdb820473001cd28e, type: 2}
 --- !u!1 &783405915
 GameObject:
   m_ObjectHideFlags: 0
@@ -14539,7 +14539,7 @@ GameObject:
   - component: {fileID: 856293490}
   - component: {fileID: 856293489}
   m_Layer: 0
-  m_Name: Particle System
+  m_Name: Particle System 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14593,8 +14593,8 @@ ParticleSystemRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
-  - {fileID: 0}
+  - {fileID: 2100000, guid: 86dd245d0dad745cdb820473001cd28e, type: 2}
+  - {fileID: 2100000, guid: 86dd245d0dad745cdb820473001cd28e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -34687,7 +34687,7 @@ MonoBehaviour:
   alphasub: 0.05
   pow: 1.2
   color: {r: 0, g: 0, b: 0, a: 1}
-  fogMaterial: {fileID: 2100000, guid: 015ded2f9331e4ffdb975fd20910ea0c, type: 2}
+  fogMaterial: {fileID: 2100000, guid: aad0e1afa859e4b4f9128c4ada11b991, type: 2}
 --- !u!111 &1932640856
 Animation:
   m_ObjectHideFlags: 0
@@ -35772,7 +35772,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -1560479197
+  randomSeed: 2003293725
   InitialModule:
     serializedVersion: 3
     enabled: 1

@@ -17,6 +17,9 @@ public class co2Controller : MonoBehaviour {
 
 		BuildingFact.SetActive (false);
 		BuildingFact_Trans.SetActive (false);
+		Destroy (BuildingFact);
+		Destroy (BuildingFact_Trans);
+
 		replaceBulb.SetActive (true);
 		
 	}

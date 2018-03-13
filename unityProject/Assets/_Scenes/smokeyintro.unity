@@ -1502,8 +1502,13 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 211894539}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
+  m_LocalPosition: {x: 902, y: 487, z: 0}
+  m_LocalScale: {x: 1.3523239, y: 1.3523239, z: 1.3523239}
+=======
   m_LocalPosition: {x: 637, y: 358.5, z: 0}
   m_LocalScale: {x: 0.9550225, y: 0.9550225, z: 0.9550225}
+>>>>>>> 4f531ce49bcfe3951c75f3d5349068b18cc1c07a
   m_Children:
   - {fileID: 185645755}
   - {fileID: 2108235057}
@@ -2320,8 +2325,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Visualization of Philly CO<sub><b>2</b></sub>
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5d0c7208780b941778fe2e0e09902f22, type: 2}
-  m_sharedMaterial: {fileID: 21439053817977586, guid: 5d0c7208780b941778fe2e0e09902f22,
+  m_fontAsset: {fileID: 11400000, guid: 6f80f87de17b24e28b7ce064c538d8e2, type: 2}
+  m_sharedMaterial: {fileID: 21842689625531524, guid: 6f80f87de17b24e28b7ce064c538d8e2,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
