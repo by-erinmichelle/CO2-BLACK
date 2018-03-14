@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/_Scenes/master6-newText.unity
+=======
+- path: Assets/_Scenes/smokeyintro.unity
+>>>>>>> afa075be325c2fdd6898f90b25294dc40ab4d599
   isLoaded: 1
   isActive: 1

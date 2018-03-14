@@ -31,12 +31,12 @@ public class exampleSceneScript : MonoBehaviour {
 		fogMaterial.SetColor("_Color", color);
 		
 		if (cfl.activeInHierarchy) {
-			alpha = 0.30f;
+			alpha = 0.2f;
 			fogMaterial.SetFloat("_Alpha", alpha);
 		}
 		
 		if (goToSecondBtn.activeInHierarchy) {
-			alpha = 0.20f;
+			alpha = 0.0f;
 			fogMaterial.SetFloat("_Alpha", alpha);
 			Debug.Log(alpha);
 		}
