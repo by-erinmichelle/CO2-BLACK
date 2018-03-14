@@ -260,6 +260,8 @@ public class co2Controller : MonoBehaviour {
 						// Debug.Log(fogMaterial._Alpha);
 
 
+
+
 					}
 
 
